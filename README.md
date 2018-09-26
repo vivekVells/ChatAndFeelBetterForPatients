@@ -10,8 +10,10 @@
 ### TOPIC: Health
 - Any health related projects are to be presented for this competition. 
 ### Judges
-- Phil Finucane, CTO of Express Scripts
-- Michael Shoemaker, Technology LeaderThis was being judged by Phil Finucane - CTO of Express Scripts and Michael Shoemaker - Technology Manager on August 1st 2018. 
+- Phil Finucane, CTO, Express Scripts
+- Emily Schlick, Director of User Experience, Express Scripts
+- Michael Shoemaker, Technology Leader, Express Scripts
+
 ### Team Members & their roles for this competition
 - Vivek Vellaiyappan - Bussiness Person + UI Design & Response and little of coding
 - Samuel Cook - Business Person + UI Design & Response and little of coding
