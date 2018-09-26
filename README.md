@@ -18,5 +18,18 @@
 - Deron Sutton - Software Engineer
 - Christopher Rodriguez - Software Engineer
 
+## Team Members
+![](https://github.com/vivekVells/ChatAndFeelBetterForPatients/blob/master/Demo/Team%20Members.jpeg)
 ## Project Working Functionality
 ### Project IDEAS Proposed
+#### Vivek's Proposal: Chat & Feel Better for Patients
+![](https://github.com/vivekVells/ChatAndFeelBetterForPatients/blob/master/Demo/Vivek's%20Product%20Proposal.jpeg)
+#### Sam's Proposal: Emergency Help Caller based on wearable
+![](https://github.com/vivekVells/ChatAndFeelBetterForPatients/blob/master/Demo/Sam's%20Product%20Proposal.jpeg)
+#### Chris's Proposal: BMI Calculator / Healthy food proposer
+![](https://github.com/vivekVells/ChatAndFeelBetterForPatients/blob/master/Demo/Chris's%20Product%20Proposal.jpeg)
+
+#### Product UI
+#### Chat & Feel Better For Patients - Chat Application Design Planning
+![](https://github.com/vivekVells/ChatAndFeelBetterForPatients/blob/master/Demo/Chat%20Application%20Design.jpeg)
+
